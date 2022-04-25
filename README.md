@@ -24,6 +24,7 @@ Nguồn dữ liệu
 
 Ghi chú và quan sát sau mỗi thử nghiệm 🧪🥼
 --
-[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)<br>
+[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/spreadsheets/d/1paynjeV7iP2xMAbhMR1XCSHtFo2ORYEnOu5haldlcxw/edit?usp=sharing)
+<br>
 https://docs.google.com/spreadsheets/d/1paynjeV7iP2xMAbhMR1XCSHtFo2ORYEnOu5haldlcxw/edit?usp=sharing
 
