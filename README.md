@@ -30,5 +30,7 @@ https://docs.google.com/spreadsheets/d/1paynjeV7iP2xMAbhMR1XCSHtFo2ORYEnOu5haldl
 To-dos
 --
 
-- [ ] Chuyển từ notebook sang Metaflow (học cách cài đặt pipeline MLOps)
+- [ ] Chuyển từ notebook sang Metaflow 
+- [ ] Cài đặt interface để predict với những input mới
+- [ ] Scrape từ amazon,...
 - [ ] ... còn nữa
