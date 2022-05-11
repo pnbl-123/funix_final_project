@@ -1,7 +1,14 @@
 # funix_final_project
 Học viên Funix thực hiện đồ án tốt nghiệp khóa học!!! 🍀:star2:🍂
+<br>**version 0**<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZDKgdmfUx9uu1EQkUBbal5fl1WJI8ha0?usp=sharing)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZDKgdmfUx9uu1EQkUBbal5fl1WJI8ha0?authuser=1&fbclid=IwAR3Zi9kG3R-67cRG1KoLK3jjXunOGEBc_uhiBnySTS6675FfCtRcSyn7L-g#scrollTo=YQYt43_BaONK&uniqifier=2)
+**version 1**<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SeHW2d32EG1ZdnLshBpKQpzBCzc9lWzZ?usp=sharing)
+
+**version 2**<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PZwZAp3oITpo1-N6vdGntx6Fe6b-cyRf?usp=sharing)
+
 
 Mục tiêu đồ án
 --
